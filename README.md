@@ -1,6 +1,7 @@
 #  Advanced Dimensionality 
 Colab: https://colab.research.google.com/drive/1i7TCcvdstN_WMRXwOlEb4IU4rfUD0qu9?usp=sharing <br>
 Colab: Data Bricks: https://colab.research.google.com/drive/1KZrEf9XxledyyBHXrTd4kCyVJVLHt9r0?usp=sharing
+Youtue: https://youtu.be/B6ZfPAgSZ9g
 <br>
 <br>
 <body>
